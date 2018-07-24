@@ -2,4 +2,6 @@ This is a test commmit
 
 Downloaded text!
 
-Merge conflcit from desktop!
+Merge conflcits from desktop resolved!
+
+Merge conflicts from web resolved!
